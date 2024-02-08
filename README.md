@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Bharat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma0131&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharma0131" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma0131&label=Profile%20views&theme=dark&style=flat" alt="adityasharma0131" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasharma0131" alt="adityasharma0131" /></a> </p>
 
