@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasharma0131" alt="adityasharma0131" /></a> </p>
 
+<img src="https://raw.githubusercontent.com/adityasharma0131/adityasharma0131/output/snake.svg" alt="Snake animation" />
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
