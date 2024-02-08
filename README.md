@@ -26,9 +26,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma0131&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma0131&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharma0131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharma0131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"  />
 <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma0131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="250" alt="adityasharma0131" />
 </div>
