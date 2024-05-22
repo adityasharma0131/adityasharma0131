@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Aditya Sharma</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Bharat </h3>
+<h3 align="center">A Passionate Full Stack Web Developer from Bharat https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f1ee-1f1f3.png </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma0131&label=Profile%20views&theme=dark&style=flat" alt="adityasharma0131" /> </p>
 
