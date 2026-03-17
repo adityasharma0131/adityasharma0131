@@ -37,49 +37,6 @@
 
 <br/>
 
-<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░ -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-```typescript
-const aditya: SoftwareEngineer = {
-  name        : "Aditya Sharma",
-  location    : "Bharat 🇮🇳",
-  role        : "Software Engineer",
-
-  expertise   : [
-    "Full Stack Web Development",
-    "Mobile App Development",
-    "AI / LLM Engineering",
-    "DevOps & Cloud Infrastructure",
-    "Server & Backend Architecture",
-  ],
-
-  aiStack     : [
-    "OpenAI GPT-4", "Claude (Anthropic)",
-    "LangChain", "RAG Pipelines",
-    "Prompt Engineering",
-  ],
-
-  mobile      : ["React Native", "Flutter", "Android Studio"],
-  devops      : ["Docker", "Nginx", "Linux", "GCP", "CI/CD"],
-
-  currently   : "Building AI-powered products & LLM agents 🤖",
-  learning    : ["Kubernetes", "LLM Fine-tuning", "Edge AI"],
-  openSource  : true,
-  funFact     : "Fixed a prod bug at 3AM — felt legendary 🌙",
-};
-```
-
-<br clear="right"/>
-
-<br/>
 
 <!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -178,61 +135,6 @@ const aditya: SoftwareEngineer = {
 
 <br/>
 
-<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💹 CRYPTONEX</h3>
-      <div align="center">
-        <a href="https://github.com/adityasharma0131">
-          <img src="https://img.shields.io/badge/🔗_View_Project-1f6feb?style=for-the-badge&labelColor=0d1117" />
-        </a>
-      </div>
-      <br/>
-      <p>Real-time cryptocurrency tracking platform with live price feeds, portfolio analytics, market charts & alerts dashboard.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/-REST_API-ff6b35?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 MEDTRACK</h3>
-      <div align="center">
-        <a href="https://github.com/adityasharma0131">
-          <img src="https://img.shields.io/badge/🔗_View_Project-1f6feb?style=for-the-badge&labelColor=0d1117" />
-        </a>
-      </div>
-      <br/>
-      <p>Healthcare management system with patient records, appointments, role-based access, and a secure encrypted backend.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░ -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;GitHub Stats
@@ -255,56 +157,8 @@ const aditya: SoftwareEngineer = {
 
 <br/>
 
-<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░ -->
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasharma0131&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="96%" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░ CURRENTLY ░░░░░░░░░░░░░░░░░░░ -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> &nbsp;What I'm Up To
-
-```yaml
-# ════════════════════════════════════════════════════
-#                  CURRENT STATUS
-# ════════════════════════════════════════════════════
-
-role      : Software Engineer  
-location  : Bharat 🇮🇳  
-status    : 🟢 Open to exciting opportunities
-
-building  :
-  ◆ AI-powered full-stack web applications
-  ◆ LLM pipelines using GPT-4o & Claude APIs
-  ◆ Scalable REST & GraphQL backends
-  ◆ Cross-platform mobile apps (React Native & Flutter)
-  ◆ Self-hosted Docker server + DevOps workflows
-
-learning  :
-  ◆ Kubernetes & container orchestration
-  ◆ LLM fine-tuning & advanced RAG architectures
-  ◆ System design for distributed systems at scale
-  ◆ Edge AI & on-device inference
-
-goals_2025:
-  ✦ Ship 2 AI-integrated SaaS products
-  ✦ Contribute to 5+ open source projects
-  ✦ Build & deploy a personal GPU inference server
-  ✦ Master cloud-native DevOps workflows end-to-end
-```
 
 <br/>
 
@@ -344,15 +198,6 @@ goals_2025:
 <img src="https://img.shields.io/badge/🤖_AI--Native_Builder-0d1117?style=for-the-badge&labelColor=7c3aed&color=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🌍_Open_Source_Believer-0d1117?style=for-the-badge&labelColor=da3633&color=0d1117" />
-
-<br/><br/>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="96%">
-</picture>
 
 <br/><br/>
 
