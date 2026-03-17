@@ -44,7 +44,7 @@
 
 <img src="https://img.shields.io/badge/🟢 Status-Open to Opportunities-238636?style=flat-square&labelColor=161b22&color=238636" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📍 Location-Bharat 🇮🇳-0e75b6?style=flat-square&labelColor=161b22&color=0e75b6" />
+<img src="https://img.shields.io/badge/📍 Location-INDIA 🇮🇳-0e75b6?style=flat-square&labelColor=161b22&color=0e75b6" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/💡 Focus-AI + Full Stack-7c3aed?style=flat-square&labelColor=161b22&color=7c3aed" />
 
@@ -90,8 +90,6 @@ const aditya: SoftwareEngineer = {
   mobile    : ["React Native", "Flutter", "Android Studio"],
   devops    : ["Docker", "Nginx", "Linux", "GCP", "CI/CD"],
 
-  currently : "Building AI-powered products & LLM agents 🤖",
-  learning  : ["Kubernetes", "LLM Fine-tuning", "Edge AI"],
   openSource: true,
   funFact   : "Fixed a prod bug at 3AM — felt legendary 🌙",
 };
@@ -110,7 +108,7 @@ const aditya: SoftwareEngineer = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" valign="middle" /> &nbsp;Tech Arsenal
 
-<div align="center">
+<div>
 
 <details open>
 <summary><b>&nbsp;🌐 &nbsp;Frontend &amp; UI</b></summary><br/>
@@ -194,54 +192,6 @@ const aditya: SoftwareEngineer = {
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                     FEATURED PROJECTS                      -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" valign="middle" /> &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💹 CRYPTONEX</h3>
-      <p>Real-time crypto tracking platform with live price feeds, portfolio analytics, and market alerts dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-ff6b35?style=flat-square" />
-      </p>
-      <a href="https://github.com/adityasharma0131">
-        <img src="https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🏥 MEDTRACK</h3>
-      <p>Healthcare management system with patient records, appointments, role-based access, and encrypted backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://github.com/adityasharma0131">
-        <img src="https://img.shields.io/badge/View%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────── RAINBOW LINE ─────────────────────── -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                       GITHUB STATS                         -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
@@ -270,85 +220,6 @@ const aditya: SoftwareEngineer = {
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                         TROPHIES                           -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasharma0131&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="96%" />
-</div>
-
-<br/>
-
-<!-- ─────────────────────── RAINBOW LINE ─────────────────────── -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                       CURRENT STATUS                       -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" valign="middle" /> &nbsp;What I'm Up To
-
-```yaml
-# ═══════════════════════════════════════════════════════
-#                    CURRENT STATUS
-# ═══════════════════════════════════════════════════════
-
-role      : Software Engineer
-location  : Bharat 🇮🇳
-status    : 🟢 Open to exciting opportunities
-
-building  :
-  ◆ AI-powered full-stack web applications
-  ◆ LLM pipelines using GPT-4o & Claude APIs
-  ◆ Scalable REST & GraphQL backends
-  ◆ Cross-platform mobile apps — React Native & Flutter
-  ◆ Self-hosted Docker server + DevOps automation
-
-learning  :
-  ◆ Kubernetes & container orchestration
-  ◆ LLM fine-tuning & advanced RAG architectures
-  ◆ System design for distributed systems at scale
-  ◆ Edge AI & on-device inference
-
-goals_2025 :
-  ✦ Ship 2 AI-integrated SaaS products
-  ✦ Contribute to 5+ open source projects
-  ✦ Build & deploy a personal GPU inference server
-  ✦ Master cloud-native DevOps end-to-end
-```
-
-<br/>
-
-<!-- ─────────────────────── RAINBOW LINE ─────────────────────── -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    CONTRIBUTION SNAKE                      -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## 🐍 &nbsp;Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="96%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ─────────────────────── RAINBOW LINE ─────────────────────── -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                      CONNECT SECTION                       -->
