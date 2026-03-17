@@ -61,8 +61,6 @@
 <!--                        ABOUT ME                            -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" style="margin-left:20px" />
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36" valign="middle" /> &nbsp;About Me
 
 ```typescript
