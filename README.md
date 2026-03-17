@@ -22,13 +22,10 @@
   <a href="https://linkedin.com/in/aditya-sharma-9b2b27226">
     <img src="https://img.shields.io/badge/💼+LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=161b22" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/adityasharma0131?label=👥+Followers&style=for-the-badge&color=238636&labelColor=161b22" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/🟢+Status-Open%20to%20Opportunities-238636?style=for-the-badge&labelColor=161b22" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍+Location-Bharat%20🇮🇳-ff6b35?style=for-the-badge&labelColor=161b22" />
+  
   &nbsp;
   <img src="https://img.shields.io/badge/💡+Focus-AI%20%2B%20Full%20Stack-7c3aed?style=for-the-badge&labelColor=161b22" />
 </p>
@@ -37,6 +34,49 @@
 
 <br/>
 
+<!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+ 
+<br/>
+ 
+<!-- ░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
+ 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+ 
+```typescript
+const aditya: SoftwareEngineer = {
+  name        : "Aditya Sharma",
+  location    : "India",
+  role        : "Software Engineer",
+ 
+  expertise   : [
+    "Full Stack Web Development",
+    "Mobile App Development",
+    "AI / LLM Engineering",
+    "DevOps & Cloud Infrastructure",
+    "Server & Backend Architecture",
+  ],
+ 
+  aiStack     : [
+    "OpenAI GPT-4", "Claude (Anthropic)",
+    "LangChain", "RAG Pipelines",
+    "Prompt Engineering",
+  ],
+ 
+  mobile      : ["React Native", "Flutter", "Android Studio"],
+  devops      : ["Docker", "Nginx", "Linux", "GCP", "CI/CD"],
+ 
+  currently   : "Building AI-powered products & LLM agents 🤖",
+  learning    : ["Kubernetes", "LLM Fine-tuning", "Edge AI"],
+  openSource  : true,
+  funFact     : "Fixed a prod bug at 3AM — felt legendary 🌙",
+};
+```
+ 
+<br clear="right"/>
+ 
+<br/>
 
 <!-- ═══════════════════ ANIMATED SEPARATOR ═══════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
